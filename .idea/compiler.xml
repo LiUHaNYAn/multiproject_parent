@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bean" />
         <module name="pager" />
+        <module name="sercuritydemo" />
         <module name="user" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="bean" target="1.8" />
       <module name="multiproject_parent" target="1.8" />
       <module name="pager" target="1.8" />
+      <module name="sercuritydemo" target="1.8" />
       <module name="user" target="1.8" />
     </bytecodeTargetLevel>
   </component>

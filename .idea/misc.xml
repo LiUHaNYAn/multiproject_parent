@@ -2,12 +2,14 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/pager" />
+    <file type="web" url="file://$PROJECT_DIR$/sercuritydemo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/pager/pom.xml" />
+        <option value="$PROJECT_DIR$/sercuritydemo/pom.xml" />
       </list>
     </option>
   </component>
