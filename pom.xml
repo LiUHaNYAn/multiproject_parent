@@ -9,6 +9,7 @@
     <modules>
         <module>bean</module>
         <module>user</module>
+        <module>shirodemo1</module>
     </modules>
     <packaging>pom</packaging>
 

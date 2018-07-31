@@ -9,6 +9,7 @@
         <module name="bean" />
         <module name="pager" />
         <module name="sercuritydemo" />
+        <module name="shirodemo1" />
         <module name="shriodemo" />
         <module name="user" />
       </profile>
@@ -19,6 +20,7 @@
       <module name="pager" target="1.8" />
       <module name="securitydemo1" target="1.8" />
       <module name="sercuritydemo" target="1.8" />
+      <module name="shirodemo1" target="1.5" />
       <module name="shriodemo" target="1.8" />
       <module name="user" target="1.8" />
     </bytecodeTargetLevel>
