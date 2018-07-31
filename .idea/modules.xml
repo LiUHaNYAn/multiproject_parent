@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/multiproject_parent.iml" filepath="$PROJECT_DIR$/multiproject_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/pager/pager.iml" filepath="$PROJECT_DIR$/pager/pager.iml" />
       <module fileurl="file://$PROJECT_DIR$/sercuritydemo/sercuritydemo.iml" filepath="$PROJECT_DIR$/sercuritydemo/sercuritydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shriodemo/shriodemo.iml" filepath="$PROJECT_DIR$/shriodemo/shriodemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
     </modules>
   </component>
